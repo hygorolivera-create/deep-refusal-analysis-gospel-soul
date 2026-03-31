@@ -30,10 +30,10 @@ Proposta de uma camada de segurança sensível ao contexto artístico para mitig
 
 Explore as fases da auditoria nos links abaixo:
 
-* **[Metodologia de Teste e RCA](./methodology/ANALYSIS.md):** A análise de causa raiz sobre o treinamento de RLHF e o vácuo de contexto.
-* **[Análise de Viés Linguístico](./methodology/LINGUISTIC_BIAS_ANALYSIS.md):** O impacto da substituição de tokens na densidade semântica da obra.
-* **[Atrito de Alinhamento (Meta-Análise)](./evaluations/MODEL_ADVERSARIAL_AWARENESS.md):** O registro da detecção do modelo sobre o objetivo da auditoria.
-* **[Post-Mortem Executivo](./evaluations/EXECUTIVE_POST_MORTEM.md):** Resumo estratégico e recomendações de remediação para stakeholders de IA.
+* [**Metodologia de Teste e RCA**](./methodology/ANALYSIS.md)
+* [**Análise de Viés Linguístico**](./methodology/LINGUISTIC_BIAS_ANALYSIS.md)
+* [**Atrito de Alinhamento (Meta-Análise)**](./evaluations/MODEL_ADVERSARIAL_AWARENESS.md)
+* [**Post-Mortem Executivo**](./evaluations/EXECUTIVE_POST_MORTEM.md)
 
 ---
 
